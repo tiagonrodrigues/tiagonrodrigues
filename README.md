@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on [Pokémon T&H](https://github.com/tiagonrodrigues/projeto-pokemon)
 
-- 🌱 I’m currently learning **Python, JS, HTML, CSS**
+- 🌱 Learning **Python, JS, HTML, CSS**
 
 - 📫 How to reach me **tiago.rodrigues07@hotmail.com**
 

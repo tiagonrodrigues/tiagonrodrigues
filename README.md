@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Tiago</h1>
-<h3 align="center">A passionate IT student developer</h3>
 <br>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tiagonrodrigues&label=Profile%20views&color=ff0000&style=flat" alt="tiagonrodrigues" /> </p>

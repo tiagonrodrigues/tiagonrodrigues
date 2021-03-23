@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **tiago.rodrigues07@hotmail.com**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Social:</h3>
 <p align="left">
 <a href="https://twitter.com/tiagonrodrigues" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="tiagonrodrigues" height="30" width="40" /></a>
 <a href="https://instagram.com/tiiago_rodrigues_" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="@tiiago_rodrigues_" height="30" width="40" /></a>

@@ -23,4 +23,4 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/tiagonrodrigues"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="tiagonrodrigues" /></a></p><br><br><br><br>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tiagonrodrigues&theme=dark" alt="tiagonrodrigues" /></p>
+<p><img align="center" src="https://github-readme-stats.codestackr.vercel.app/api?username=tiagonrodrigues&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=radical" alt="tiagonrodrigues" /></p>

@@ -9,7 +9,7 @@
 
 - 🌱 Learning **Python, JS, HTML, CSS**
 
-- 📫 How to reach me **tiago.rodrigues07@hotmail.com**
+- 📫 How to reach me **tiagorodrigues1112@gmail.com**
 
 <h3 align="left">Social:</h3>
 <p align="left">

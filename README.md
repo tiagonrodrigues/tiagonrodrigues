@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋 I'm Tiago !</h1>
 <br>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=tiagonrodrigues&label=Profile%20views&color=ff0000&style=flat" alt="tiagonrodrigues" /> </p>
-
-<p align="left"> <a href="https://twitter.com/tiagonrodrigues" target="blank"><img src="https://img.shields.io/twitter/follow/tiagonrodrigues?logo=twitter&style=for-the-badge" alt="tiagonrodrigues" /></a> </p>
-
 - 🔭 I’m currently working on [Pokémon T&H](https://github.com/tiagonrodrigues/projeto-pokemon)
 
 - 🌱 Learning **Python, HTML, CSS, JS**
@@ -13,6 +9,7 @@
 
 <h3 align="left">Social:</h3>
 <p align="left">
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=tiagonrodrigues&label=Profile%20views&color=ff0000&style=flat" alt="tiagonrodrigues" /> </p>
 <a href="https://twitter.com/tiagonrodrigues" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="tiagonrodrigues" height="30" width="40" /></a>
 <a href="https://instagram.com/tiagonrodrigues" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="@tiiago_rodrigues_" height="30" width="40" /></a>
 </p>

@@ -7,7 +7,7 @@
 - 📫 How to reach me **tiagorodrigues1112@gmail.com**
 
 <h2 align="left">Social:</h2>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=tiagonrodrigues&label=Profile%20views&color=ff0000&style=flat" alt="tiagonrodrigues" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=tiagonrodrigues&label=Profile%20views&color=brightgreen&style=flat" alt="tiagonrodrigues" /> </p>
 <a href="https://twitter.com/tiagonrodrigues" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="tiagonrodrigues" height="30" width="40" /></a>
 <a href="https://instagram.com/tiagonrodrigues" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="@tiiago_rodrigues_" height="30" width="40" /></a>
 </p>

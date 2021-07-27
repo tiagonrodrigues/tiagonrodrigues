@@ -27,4 +27,5 @@
 <div>
   <h2>Currently Working On:</h2>
   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=tiagonrodrigues&repo=PokemonTH)](https://github.com/tiagonrodrigues/PokemonTH)
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
 </div>

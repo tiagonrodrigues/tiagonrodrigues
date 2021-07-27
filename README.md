@@ -17,8 +17,8 @@
 
 <div style="display: inline_block">
   <h2 align="left">Stats:</h2>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=tiagonrodrigues&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tiagonrodrigues&layout=compact&langs_count=16&theme=tokyonight"/>
+  <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=tiagonrodrigues&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tiagonrodrigues&layout=compact&langs_count=16&theme=tokyonight"/>
 </div>
 
 <h2 align="left">Support:</h2>

@@ -24,7 +24,7 @@
 <h2 align="left">Support:</h2>
 <p><a href="https://www.buymeacoffee.com/tiagonrodrigues"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="tiagonrodrigues" /></a></p><br>
 
-<h2>Currently Working On:</h2>
+<h2 align="left">Currently Working On:</h2>
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=tiagonrodrigues&repo=PokemonTH)](https://github.com/tiagonrodrigues/PokemonTH)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)

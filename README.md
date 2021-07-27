@@ -8,8 +8,8 @@
 
 <h2 align="left">Social:</h2>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tiagonrodrigues&label=Profile%20views&color=brightgreen&style=flat" alt="tiagonrodrigues" /> </p>
-<a href="https://twitter.com/tiagonrodrigues" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="tiagonrodrigues" height="30" width="40" /></a>
-<a href="https://instagram.com/tiagonrodrigues" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="@tiiago_rodrigues_" height="30" width="40" /></a>
+<a href="https://twitter.com/tiagonrodrigues" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@5.5.0/icons/twitter.svg" alt="tiagonrodrigues" height="30" width="40" /></a>
+<a href="https://instagram.com/tiagonrodrigues" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@5.5.0/icons/instagram.svg" alt="@tiiago_rodrigues_" height="30" width="40" /></a>
 </p>
 
 <h2 align="left">Languages and Tools:</h2>

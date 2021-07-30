@@ -1,10 +1,10 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&color=000000&size=36&center=true&width=500&height=400&lines=Hello%2C+I'm+Tiago!+++)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&color=000000&size=36&center=true&lines=Hello%2C+I'm+Tiago!+++)](https://git.io/typing-svg)
 
 <br>
 
 <div>
   <h1 align="center">:compass: About me</h1>
-
+  <br>
   <p align="center">I'm Wesley, a freelance Voice-Over artist and (mostly How-To) video creator/editor, fulltime
     YouTuber on
     [TroubleChute](https://www.youtube.com/TroubleChute) from South Africa.
@@ -60,7 +60,7 @@
 <div>
   <h1 align="center">:coffee: Support</h1>
   <br>
-  <p><a href="https://www.buymeacoffee.com/tiagonrodrigues"> <img align="left"
-        src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" height="50" width="210"
+  <p align="center"><a href="https://www.buymeacoffee.com/tiagonrodrigues"> <img
+        src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black"
         alt="tiagonrodrigues" /></a></p>
 </div>

@@ -4,8 +4,6 @@
   </p>
 </div>
 
-<br>
-
 <div>
   <h1 align="center">:compass: About me</h1>
   <br>

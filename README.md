@@ -6,7 +6,7 @@
 </div>
 
 <div>
-  <h1 align="center">:compass: About Me</h1>
+  <h1 align="center">:compass: ABOUT ME</h1>
   <br>
   <p align="center">I'm Wesley, a freelance Voice-Over artist and (mostly How-To) video creator/editor, fulltime
     YouTuber on
@@ -49,7 +49,7 @@
 <br>
 
 <div>
-  <h2 align="center">:computer: IDEs and Tools</h1>
+  <h2 align="center">:computer: IDEs & TOOLS</h1>
   <br>
   <p align="center">
     <img src="https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white" alt="IntelIJD">
@@ -63,7 +63,7 @@
 <br>
 
 <div>
-  <h2 align="center">:coffee: Support</h1>
+  <h2 align="center">:coffee: SUPPORT</h1>
   <br>
   <p align="center"><a href="https://www.buymeacoffee.com/tiagonrodrigues"> <img
         src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black"

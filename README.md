@@ -65,5 +65,5 @@
   <br>
   <p align="center"><a href="https://www.buymeacoffee.com/tiagonrodrigues"> <img
         src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black"
-        alt="tiagonrodrigues" width="400" /></a></p>
+        alt="tiagonrodrigues" width="300" /></a></p>
 </div>

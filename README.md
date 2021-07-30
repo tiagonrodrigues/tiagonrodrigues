@@ -60,6 +60,8 @@
   </p>
 </div>
 
+<br>
+
 <div>
   <h2 align="center">:coffee: Support</h1>
   <br>

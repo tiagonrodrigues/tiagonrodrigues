@@ -34,7 +34,7 @@
 <br>
 
 <div>
-  <h1 align="center">:man_technologist: Programming Languages</h1>
+  <h2 align="center">:man_technologist: Programming Languages</h1>
   <br>
   <p align="center">
     <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java">
@@ -49,7 +49,7 @@
 <br>
 
 <div>
-  <h1 align="center">:computer: IDEs and Tools</h1>
+  <h2 align="center">:computer: IDEs and Tools</h1>
   <br>
   <p align="center">
     <img src="https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white" alt="IntelIJD">
@@ -61,9 +61,9 @@
 </div>
 
 <div>
-  <h1 align="center">:coffee: Support</h1>
+  <h2 align="center">:coffee: Support</h1>
   <br>
   <p align="center"><a href="https://www.buymeacoffee.com/tiagonrodrigues"> <img
         src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black"
-        alt="tiagonrodrigues" /></a></p>
+        alt="tiagonrodrigues" width="400" /></a></p>
 </div>

@@ -1,10 +1,12 @@
 <div>
 
-  <h1>About me</h1>
+  <h1 align="center">:compass: About me</h1>
 
-  <p>I'm Wesley, a freelance Voice-Over artist and (mostly How-To) video creator/editor, fulltime YouTuber on
+  <p align="center">I'm Wesley, a freelance Voice-Over artist and (mostly How-To) video creator/editor, fulltime YouTuber on
     [TroubleChute](https://www.youtube.com/TroubleChute) from South Africa.
     I spend far more time than I should on open-source software, and this is where you can find it.</p>
+
+  <br><br><br>
 
   <p align="center">
     <a href="https://github.com/tiagonrodrigues" target="_blank"><img
@@ -22,8 +24,10 @@
   </p>
 </div>
 
+<br><br><br>
+
 <div>
-  <h1 align="center">Languages</h1>
+  <h1 align="center">:man_technologist: Programming Languages</h1>
   <p align="center">
     <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java">
     <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
@@ -36,15 +40,13 @@
 
 
 
-<div style="display: inline_block">
-  <h2 align="left">Stats:</h2>
+<div>
+  <h1 align="center">Stats:</h1>
   <img align="center" height="180em"
     src="https://github-readme-stats.vercel.app/api?username=tiagonrodrigues&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-  <img align="center" height="180em"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=tiagonrodrigues&layout=compact&langs_count=16&theme=tokyonight" />
 </div>
 
-<h2 align="left">Support:</h2>
+<h2 align="center">Support:</h2>
 <p><a href="https://www.buymeacoffee.com/tiagonrodrigues"> <img align="left"
       src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210"
       alt="tiagonrodrigues" /></a></p><br>

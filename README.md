@@ -6,7 +6,7 @@
 </div>
 
 <div>
-  <h1 align="center">:compass: ABOUT ME</h1>
+  <h1 align="center">:compass: **ABOUT ME**</h1>
   <br>
   <p align="center">I'm Wesley, a freelance Voice-Over artist and (mostly How-To) video creator/editor, fulltime
     YouTuber on

@@ -1,7 +1,7 @@
 <br>
 <div align="center">
   <p>
-    <img width=100 height=24 src="https://readme-typing-svg.herokuapp.com/?font=Press+Start+2P&width=650&color=000000&size=18&center=true&lines=Talk+is+cheap.+Show+me+the+code.">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Press+Start+2P&width=650&color=000000&size=18&center=true&lines=Talk+is+cheap.+Show+me+the+code.">
   </p>
 </div>
 

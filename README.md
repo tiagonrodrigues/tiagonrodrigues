@@ -3,15 +3,15 @@
   I spend far more time than I should on open-source software, and this is where you can find it.</p>
 
 <p align="center">
-  <a href="https://github.com/tiagonrodrigues"><img
+  <a href="https://github.com/tiagonrodrigues" target="_blank"><img
       src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="Github"></a>
-  <a href="https://www.asus.com/pt/Laptops/For-Home/ZenBook/ZenBook-14-UM425/techspec/"><img
+  <a href="https://www.asus.com/pt/Laptops/For-Home/ZenBook/ZenBook-14-UM425/techspec/" target="_blank"><img
       src="https://img.shields.io/badge/Windows-ASUS_Zenbook_14-0078D6?style=for-the-badge&logo=windows&logoColor=white"
       alt="Laptop"></a>
-  <a href="https://twitter.com/tiagonrodrigues"><img
+  <a href="https://twitter.com/tiagonrodrigues" target="_blank"><img
       src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"
       alt="Twitter"></a>
-  <a href="https://www.instagram.com/tiagonrodriguess/"><img
+  <a href="https://www.instagram.com/tiagonrodriguess/" target="_blank"><img
       src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"
       alt="Instagram"></a>
 </p>

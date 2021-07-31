@@ -8,11 +8,8 @@
 <div>
   <h1 align="center">:compass: About Me</h1>
   <br>
-  <p align="center">I'm Wesley, a freelance Voice-Over artist and (mostly How-To) video creator/editor, fulltime
-    YouTuber on
-    [TroubleChute](https://www.youtube.com/TroubleChute) from South Africa.
+  <p align="center">I'm Tiago, an IT student from Faculty of Sciences of the University of Lisbon
     I spend far more time than I should on open-source software, and this is where you can find it.</p>
-
   <br>
 
   <p align="center">

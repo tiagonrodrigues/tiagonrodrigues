@@ -8,7 +8,7 @@
 <div>
   <h1 align="center">:compass: About Me</h1>
   <br>
-  <p style="font-size: 48px" align="center">I'm Tiago, an IT student from Faculty of Sciences of the University of Lisbon. I spend far more time than I should on open-source   projects, and this is where you can find it.</p>
+  <p align="center">I'm Tiago, an IT student from Faculty of Sciences of the University of Lisbon. <br> I spend far more time than I should on open-source   projects, and this is where you can find it.</p>
   <br>
 
   <p align="center">

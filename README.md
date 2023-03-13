@@ -61,7 +61,7 @@
 <div>
   <h2 align="center">:coffee: Support</h1>
   <br>
-  <p align="center"><a href="https://www.buymeacoffee.com/tiagonrodrigues"> <img
+  <p align="center"><a href="https://www.buymeacoffee.com"> <img
         src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black"
         alt="tiagonrodrigues" width="200" /></a></p>
 </div>

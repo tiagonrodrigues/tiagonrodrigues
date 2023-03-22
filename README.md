@@ -6,7 +6,7 @@
 </div>
 
 <div>
-  <h1 align="center">:compass: About Me & what I've done so far.</h1>
+  <h1 align="center">:compass: About Me & what I've done so far</h1>
   <br>
   <p align="center">I'm Tiago, a Computer Science and Engineering student from Faculty of Sciences of the University of Lisbon. <br> I spend far more time than I should on open-source projects, and this is where you can find some.</p>
   <br>

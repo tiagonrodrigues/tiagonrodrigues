@@ -49,13 +49,3 @@
     <img src="https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6" alt="AdobeXD">
   </p>
 </div>
-
-<br>
-
-<div>
-  <h2 align="center">:coffee: Support</h1>
-  <br>
-  <p align="center"><a href="https://www.buymeacoffee.com"> <img
-        src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black"
-        alt="tiagonrodrigues" width="200" /></a></p>
-</div>

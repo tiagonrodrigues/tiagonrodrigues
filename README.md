@@ -1,8 +1,6 @@
 <div align="left">
 <h2> Hi There, Welcome to my Github profile! <img src="https://github.com/abdoachhoubi/abdoachhoubi/blob/main/gifs/Hi.gif" width="30"></h2>
-<br />
-<br />
-<br />
+
 
 👋 In the dynamic world of the web, I wear multiple hats. From web design to business strategy and hardcore development. I've founded my own agency in my 20s, a move fueled by a passion for making things happen.
 

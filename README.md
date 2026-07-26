@@ -1,15 +1,26 @@
-<div align="left">
-<h2> Hey there, welcome! <img src="https://github.com/abdoachhoubi/abdoachhoubi/blob/main/gifs/Hi.gif" width="30"></h2>
+Founder of **[Developh](https://developh.co)**, a design and engineering studio in Lisbon. I lead a team of 10 and still write the code that ships.
 
+The useful part of my job is the overlap: I read the business and the stack trace in the same afternoon. A client comes in with a problem that is rarely the one they describe — I work out what it actually is, decide, and get it live. 40+ client sites currently run in production on infrastructure I built.
 
-👋 In the dynamic world of the web, I wear multiple hats. From web design to business strategy and hardcore development. I've founded my own agency in my 20s, a move fueled by a passion for making things happen.
+### Building
 
-💡 If you're looking to turn your project, idea, or business into a reality, count on me to make it happen. I'm here to bring your vision to life. I have a well-rounded skill set that spans across business, web development, social media, software, events, and UI/UX.
+**[agent-reaper](https://github.com/tiagonrodrigues/agent-reaper)** — kills the zombie processes AI coding agents leave behind. A safe-by-design macOS LaunchAgent for claude, cursor-agent, codex, aider and playwright. Ships through my own [Homebrew tap](https://github.com/tiagonrodrigues/homebrew-tap).
 
-🌴 On the professional front, I've been a three-time attendee at Web Summit, immersing myself in the latest trends and innovations. Beyond the business hustle, I find joy in capturing moments through photography, exploring new places, and riding waves.
+**[observatory](https://github.com/tiagonrodrigues/observatory)** — Rails 8 app monitoring public procurement across Portuguese and EU databases to surface corruption risk patterns.
 
-🚀 Eager to transform your concepts into reality and take your projects to the next level? Send me a DM, let's chat!
+### Upstream
 
-<a href="https://linkedin.com/in/tiagonrodrigues" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>
+I file the bug and then send the fix.
+
+- **[google/model-viewer](https://github.com/google/model-viewer)** — spotted debug logging shipping in production builds of 4.3.x, PR merged
+- **[vercel/next.js#96192](https://github.com/vercel/next.js/issues/96192)** — Bun runtime rendering the wrong route module on rewritten paths, filed with a [minimal repro](https://github.com/tiagonrodrigues/nextjs-bun-runtime-rewrite-repro)
+- **[openai/codex](https://github.com/openai/codex)** — GPT-5.3 requests silently downgraded to 5.2 under Trusted Access
+- **[PostHog](https://github.com/PostHog)** — organization switching from inside the app
+
+### Stack
+
+TypeScript · Next.js · React · Rails · Postgres · Vercel · increasingly, agent tooling.
+
+---
+
+Lisbon, Portugal · [developh.co](https://developh.co) · [LinkedIn](https://linkedin.com/in/tiagonrodrigues) · [@tiagoatdeveloph](https://twitter.com/tiagoatdeveloph)

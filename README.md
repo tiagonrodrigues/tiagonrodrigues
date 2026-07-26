@@ -1,6 +1,6 @@
-Founder of **[Developh](https://developh.co)**, a design and engineering studio in Lisbon. I lead a team of 10 and still write the code that ships.
+Ceo of **[Developh](https://developh.co)**, a branding, web and product studio based in Lisbon, working with companies that need to go Beyond limits®.
 
-The useful part of my job is the overlap: I read the business and the stack trace in the same afternoon. A client comes in with a problem that is rarely the one they describe, I work out what it actually is, decide, and get it live. 40+ client sites currently run in production on infrastructure I built.
+I started the studio in 2023 while completing a Computer Science degree at the Faculty of Sciences, University of Lisbon, and have run it since. Today I lead a team of ten and have a hand in more than fifty businesses across hospitality, healthcare, real estate, travel, retail and sport, among them 100% Bebé, Armazém 810, Kailua, Patty Smash Burgers, Clínica Cautela, Luso Impor, Casa Virtuoso and others. We take each one from brand to production deployment, which means we answer for the result and not for a phase of it.
 
 ---
 
